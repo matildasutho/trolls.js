@@ -1,5 +1,5 @@
 # trolls.js
-
+<pre>
   ****           *   ***** ***       * ***        ***** *          ***** *                ***** **      *******    
  *  ************* ******  * **     *  ****     ******  *        ******  *              ******  **** * *       ***  
 *     *********  **   *  *  **    *  *  ***   **   *  *        **   *  *              **   *  * **** *         **  
@@ -21,10 +21,11 @@
                                                                                 d      *                           
                                                                                                                    
                                                                                                                    
-                                                                                                                               
+                                                                                                                            
 
 
 A troll has come to be known on the internet as an antagonizing character cloaked in anonymity allowed through UIs - who creates inflammatory and digressive discourse
+
 It is a hauntological affair built out of the debris of LambdaMOOs past
 Can the internet and Trolls cohabitate?
 
@@ -44,3 +45,5 @@ Niskanen, Jussi 2020. _Goblin Doors_. https://www.ofluxo.net/gooblin-doors-speci
 
 And Of Course:
 Olia Lialina's _Digital Folklore_ https://digitalfolklore.org/
+
+</pre>
