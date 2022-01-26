@@ -38,6 +38,9 @@ Paste a Troll into the source code of a website (if you have access, in which ca
 ALTERNATIVELY
 Use your browser's development console for temporary inhabitance
 
+https://github.com/matildasutho/trolls.js![image](https://user-images.githubusercontent.com/64000876/151137913-e61b188b-1126-4ac0-9ac1-a6f77a20b866.png)
+
+
 
 Some Fables to Feed You:
 Lange, Patricia G. 2017. _Feeding the Trolls_ pg. 81 : https://groups.psych.northwestern.edu/medin/documents/Page-ReevesEtal2017SWAAProceedingsFinal.pdf
